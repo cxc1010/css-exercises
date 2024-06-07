@@ -1,10 +1,10 @@
 /* Solution One: use class selectors */
-.container .text {
+/* .container .text {
     background-color: yellow;
     color: red;
     font-size: 20px;
     text-align: center;
-}
+} */
 
 /* Solution Two: use type selectors */
 div p {
